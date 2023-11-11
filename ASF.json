@@ -1,4 +1,7 @@
 {
+  "FilterBadBots": true,
   "Headless": true,
+  "IPCPassword": "cda-ueg2ynv-wuy6UZC",
+  "WebProxyPassword": "cda-ueg2ynv-wuy6UZC",
   "IPCPasswordFormat": 1
 }
